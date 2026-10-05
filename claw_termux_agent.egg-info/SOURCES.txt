@@ -1,0 +1,15 @@
+LICENSE
+README.md
+setup.py
+claw_termux_agent.egg-info/PKG-INFO
+claw_termux_agent.egg-info/SOURCES.txt
+claw_termux_agent.egg-info/dependency_links.txt
+claw_termux_agent.egg-info/entry_points.txt
+claw_termux_agent.egg-info/requires.txt
+claw_termux_agent.egg-info/top_level.txt
+clawagent/__init__.py
+clawagent/cli.py
+clawagent/daemon.py
+clawagent/llm.py
+clawagent/scraper.py
+clawagent/searcher.py
